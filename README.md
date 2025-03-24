@@ -1,0 +1,1 @@
+**Library Management Database System**: A SQL-based system for tracking book reservations, late fees, and library operations. It ensures seamless transactions, data integrity, and efficient member management. Key features include book tracking, automated late fee calculation, and member database management. 📚
